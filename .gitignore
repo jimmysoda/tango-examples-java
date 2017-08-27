@@ -17,3 +17,10 @@ proguard/
 
 # Log Files
 *.log
+
+# Android Studio project
+.idea/
+
+# Vim-generated backup and swap files
+*~
+*.swp
